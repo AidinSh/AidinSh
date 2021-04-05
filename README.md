@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AidinSh
+- 👋 Hi, I’m Aidin Shahmoradi
 - 👀 I’m interested in Game Developmen, Android Development an QA Automation
 - 🌱 I’m currently learning Android & QA Automation
 - 💞️ I’m looking to collaborate on Unity
